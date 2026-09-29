@@ -7,7 +7,7 @@ Senseair K30 CO₂ 센서를 RS-232 / Modbus RTU 프로토콜로 읽어
 
 ## 스크린샷
 
-!\[Senseair K30 CO₂ Monitor](docs/screenshot.png)
+!\[Senseair K30 CO₂ Monitor](SenseairK30App/docs/screenshot.png)
 
 \---
 
@@ -91,7 +91,7 @@ TX: FE 04 00 00 00 04 E5 C6
 |0x0020|Out of range|
 |0x0040|Memory error|
 
-* **CRC16 Modbus** 
+* **CRC16 Modbus**
 * **포트 목록 자동 감지 및 새로고침**
 * **수신 로그** 최대 200줄 표시
 
@@ -143,6 +143,5 @@ Mock 모드(시뮬레이션)는 추후 추가 예정입니다.
 
 ## 개발 배경
 
-C++/Qt로 구현한 경험을 바탕으로, 동일한 Modbus RTU 통신 구조를 **C# WPF** 환경에서 재구현한 포트폴리오 프로젝트입니다.  
-
+C++/Qt로 구현한 경험을 바탕으로, 동일한 Modbus RTU 통신 구조를 **C# WPF** 환경에서 재구현한 포트폴리오 프로젝트입니다.
 
