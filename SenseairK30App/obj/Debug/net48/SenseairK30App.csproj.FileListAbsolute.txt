@@ -1,0 +1,14 @@
+C:\Users\asahan\Downloads\SenseairK30App\SenseairK30App\SenseairK30App\bin\Debug\net48\SenseairK30App.exe.config
+C:\Users\asahan\Downloads\SenseairK30App\SenseairK30App\SenseairK30App\bin\Debug\net48\SenseairK30App.exe
+C:\Users\asahan\Downloads\SenseairK30App\SenseairK30App\SenseairK30App\bin\Debug\net48\SenseairK30App.pdb
+C:\Users\asahan\Downloads\SenseairK30App\SenseairK30App\SenseairK30App\obj\Debug\net48\MainWindow.baml
+C:\Users\asahan\Downloads\SenseairK30App\SenseairK30App\SenseairK30App\obj\Debug\net48\MainWindow.g.cs
+C:\Users\asahan\Downloads\SenseairK30App\SenseairK30App\SenseairK30App\obj\Debug\net48\App.g.cs
+C:\Users\asahan\Downloads\SenseairK30App\SenseairK30App\SenseairK30App\obj\Debug\net48\SenseairK30App_MarkupCompile.cache
+C:\Users\asahan\Downloads\SenseairK30App\SenseairK30App\SenseairK30App\obj\Debug\net48\SenseairK30App.g.resources
+C:\Users\asahan\Downloads\SenseairK30App\SenseairK30App\SenseairK30App\obj\Debug\net48\SenseairK30App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asahan\Downloads\SenseairK30App\SenseairK30App\SenseairK30App\obj\Debug\net48\SenseairK30App.AssemblyInfoInputs.cache
+C:\Users\asahan\Downloads\SenseairK30App\SenseairK30App\SenseairK30App\obj\Debug\net48\SenseairK30App.AssemblyInfo.cs
+C:\Users\asahan\Downloads\SenseairK30App\SenseairK30App\SenseairK30App\obj\Debug\net48\SenseairK30App.csproj.CoreCompileInputs.cache
+C:\Users\asahan\Downloads\SenseairK30App\SenseairK30App\SenseairK30App\obj\Debug\net48\SenseairK30App.exe
+C:\Users\asahan\Downloads\SenseairK30App\SenseairK30App\SenseairK30App\obj\Debug\net48\SenseairK30App.pdb

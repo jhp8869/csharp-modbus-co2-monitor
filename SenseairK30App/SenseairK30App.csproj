@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <AssemblyName>SenseairK30App</AssemblyName>
+    <RootNamespace>SenseairK30App</RootNamespace>
+    <LangVersion>8.0</LangVersion>
+  </PropertyGroup>
+
+</Project>
