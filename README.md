@@ -7,7 +7,7 @@ Senseair K30 CO₂ 센서를 RS-232 / Modbus RTU 프로토콜로 읽어
 
 ## 스크린샷
 
-!\[Senseair K30 CO₂ Monitor](SenseairK30App/docs/screenshot.png)
+![Senseair K30 CO₂ Monitor](SenseairK30App/docs/screenshot.png)
 
 \---
 
